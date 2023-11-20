@@ -2,7 +2,7 @@
 
 1. **Follow the below steps to get a cool container with TF and AWS CLI installed:**
 - Click on + below a container with 60 hours free of 2 cpus and 4 GB would be created on each repository.
-- 
+
 ![image](https://github.com/jalaluddinmohammed/terraform-zero-to-hero/assets/145260536/06f16237-e62e-4c17-8b51-bb81a5021d79)
 
 
