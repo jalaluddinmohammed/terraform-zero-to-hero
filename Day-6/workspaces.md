@@ -19,3 +19,12 @@
 
  ![image](https://github.com/jalaluddinmohammed/terraform-zero-to-hero/assets/145260536/b21ab795-071d-4d4d-abaf-59e225006684)
 
+- Now you can select and switch to respective environment and perform your terraform actions (init,apply or destroy).
+
+![image](https://github.com/jalaluddinmohammed/terraform-zero-to-hero/assets/145260536/b1655e6d-3d1f-4ad8-b1d8-f888a16db7f5)
+
+- New State file is created inside the workspace and not on root folder, its isolated with stage and PRD,and there is no impact if you do changes on dev.
+![image](https://github.com/jalaluddinmohammed/terraform-zero-to-hero/assets/145260536/4ae21a27-3c51-4f88-a644-199be558771d)
+
+
+
