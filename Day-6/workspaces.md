@@ -1,4 +1,4 @@
-## Workspaces basically solves the problem of isolation.
+## Workspaces basically solves the problem of isolation of statefile.
 - It creates a separate state file for each workspaces ( Dev, Pre-Prod, PRD) etc..-
 - If there are no workspace concept then the same state file would be used and it will be keep changing or updating existing resources.
 ![image](https://github.com/jalaluddinmohammed/terraform-zero-to-hero/assets/145260536/bc1225ba-c1e0-47b9-8e65-e1b84317315e)
