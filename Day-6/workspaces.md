@@ -35,6 +35,12 @@
 - We can see t2.micro is for DEV and t2.medium is for Stage. Existing infra is not changed as state file for stage and dev is different.
 ![image](https://github.com/jalaluddinmohammed/terraform-zero-to-hero/assets/145260536/ab77285d-80a1-45a4-9a98-08bee68aa88a)
 
+- You can create different tfvars file for each environment ( dev.tfvars, stage.tfvars, prod.tfvars ..etc) then specify using terraform apply -var-file=dev.tfvars
+- Also you can use a map inside VAR and specify values and write lookup. ( instance type is selected based on terraform.workspace value (dev, stage & prd), next is default t2.micro)
+![image](https://github.com/jalaluddinmohammed/terraform-zero-to-hero/assets/145260536/de3e7480-2f92-4f7c-8a41-55687e1fc5ea)
+
+
+
 
  
 
