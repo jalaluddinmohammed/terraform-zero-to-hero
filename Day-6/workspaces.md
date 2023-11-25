@@ -26,5 +26,15 @@
 - New State file is created inside the workspace and not on root folder, its isolated with stage and PRD,and there is no impact if you do changes on dev.
 ![image](https://github.com/jalaluddinmohammed/terraform-zero-to-hero/assets/145260536/4ae21a27-3c51-4f88-a644-199be558771d)
 
+- Now, you want to create resources on stage so you switch to it and run terraform apply, in this example i am changing instance_type from t2.micro to t2.medium, this will not change resource, but it will add.
+
+ ![image](https://github.com/jalaluddinmohammed/terraform-zero-to-hero/assets/145260536/c5ae2c1b-4784-493a-ad44-01ec7b7e6b8e)
+
+ ![image](https://github.com/jalaluddinmohammed/terraform-zero-to-hero/assets/145260536/0a8a4cd7-65cd-4b01-a742-275258b07552)
+
+
+ 
+
+
 
 
