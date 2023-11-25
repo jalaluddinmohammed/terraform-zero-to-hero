@@ -19,7 +19,7 @@
 
  ![image](https://github.com/jalaluddinmohammed/terraform-zero-to-hero/assets/145260536/b21ab795-071d-4d4d-abaf-59e225006684)
 
-- Now you can select and switch to respective environment and perform your terraform actions (init,apply or destroy).
+- Now you can select and switch to respective environment and perform your terraform actions (init,apply or destroy). In this example,i am creating the t2.micro instance.
 
 ![image](https://github.com/jalaluddinmohammed/terraform-zero-to-hero/assets/145260536/b1655e6d-3d1f-4ad8-b1d8-f888a16db7f5)
 
@@ -31,6 +31,9 @@
  ![image](https://github.com/jalaluddinmohammed/terraform-zero-to-hero/assets/145260536/c5ae2c1b-4784-493a-ad44-01ec7b7e6b8e)
 
  ![image](https://github.com/jalaluddinmohammed/terraform-zero-to-hero/assets/145260536/0a8a4cd7-65cd-4b01-a742-275258b07552)
+
+- We can see t2.micro is for DEV and t2.medium is for Stage. Existing infra is not changed as state file for stage and dev is different.
+![image](https://github.com/jalaluddinmohammed/terraform-zero-to-hero/assets/145260536/ab77285d-80a1-45a4-9a98-08bee68aa88a)
 
 
  
