@@ -2,7 +2,7 @@
 
 https://youtu.be/-4IMy5ihiiU
 
-# 1. Terraform migration ( using  provider import and then running terraform import command which will create a state file).
+# 1. Terraform migration ( using import and then running terraform import command which will create a state file).
 
 - This will import the EC2 instance all details which was created manually.
 
@@ -21,6 +21,6 @@ Scenario 1: Use terraform refresh using a cron job. ( terraform refresh, refersh
 
 Scenario 2: 
 
-A) Use audit/activity logs to see who made changes, if its changed by user and resources is managed by TF, then send an alert using lambda/azure functions and notify.
+- A) Use audit/activity logs to see who made changes, if its changed by user and resources is managed by TF, then send an alert using lambda/azure functions and notify.
 
-B) Apply strict IAM rules so that no one can login to console.
+- B) Apply strict IAM rules so that no one can login to console.
