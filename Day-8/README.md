@@ -1,6 +1,5 @@
 # MIGRATION TO TERRAFORM & DRIFT DETECTION
 
-https://youtu.be/-4IMy5ihiiU
 
 # 1. Terraform migration for AWS ( using import and then running terraform import command which will create a state file).
 
