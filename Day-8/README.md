@@ -12,7 +12,7 @@
 ![image](https://github.com/jalaluddinmohammed/terraform-zero-to-hero/assets/145260536/d02743d6-1ce4-462a-89f7-6cb7aef89e2c)
 
 
-# 1. Terraform migration for Azure
+# 2. Terraform migration for Azure
 
   ![image](https://github.com/jalaluddinmohammed/terraform-zero-to-hero/assets/145260536/2dce4602-b719-4e3b-8e4c-1c0cb53024d6)
 
